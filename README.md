@@ -23,4 +23,14 @@ conda activate LASQ
 pip install -r requirements.txt
 ```
 ---
-## 📂 3.Data Preparation
+## 📂 3. Data Preparation
+
+**Core Steps 🧵**
+
+### 3.1 📂 Data Preparation  
+Preprocess and organize your dataset.  
+Make sure the folder structure matches the config file.  
+
+### 3.2 🧱 Model Initialization  
+Load backbone and fusion modules.  
+Initialize with pre-trained weights if available.  
