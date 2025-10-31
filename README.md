@@ -21,6 +21,6 @@ conda activate LASQ
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ---
 ## 📂 3.Data Preparation
