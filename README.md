@@ -36,5 +36,11 @@ Test datesets without GT: [🌐Google Drive](https://drive.google.com/file/d/1W8
 Challenging Scenes: [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing)
 
 ### 3.2 🗂️ Datasets Organization
-Load backbone and fusion modules.  
-Initialize with pre-trained weights if available.  
+```
+data/
+ ├── dataset_A/
+ │    ├── train/
+ │    ├── val/
+ │    └── test/
+ └── dataset_B/
+```
