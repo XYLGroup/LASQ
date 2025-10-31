@@ -1,4 +1,4 @@
-# 🧠 LASQ: Unsupervised Hierarchical Learning for Illumination Enhancement
+# 🚀 LASQ: Unsupervised Hierarchical Learning for Illumination Enhancement
 
 ---
 
