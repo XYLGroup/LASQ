@@ -25,8 +25,6 @@ pip install -r requirements.txt
 ---
 ## 📂 3. Data Preparation
 
-**Core Steps 🧵**
-
 ### 3.1 💾 Data Preparation  
 LOLv1 dataset: Chen Wei, Wenjing Wang, Wenhan Yang, and Jiaying Liu. "Deep Retinex Decomposition for Low-Light Enhancement". BMVC, 2018. [🌐Google Drive](https://drive.google.com/file/d/18bs_mAREhLipaM2qvhxs7u7ff2VSHet2/view)
 
