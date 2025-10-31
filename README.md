@@ -12,7 +12,7 @@ The overall architecture is illustrated below 👇
 </p>
 
 ---
-## 📦 2. Dependencies
+## 📦 2. Create Environment
 
 ```bash
 # Environment setup
