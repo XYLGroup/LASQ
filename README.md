@@ -39,14 +39,8 @@ Challenging Scenes: [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYT
 We provide a script `TXT_Generation.py` to automatically generate dataset path files that are compatible with our code. Please place the generated files according to the directory structure shown below 👇
 ```
 data/
-├── Image_restoration/
-│ └── LOL-v1/
-│ ├── LOLv1_val.txt
-│ └── unpaired_train.txt
-
-data/
  ├── Image_restoration/
  │    └── LOL-v1/
- │         ├── LOLv1_val.txt
- │         └── unpaired_train.txt
+ │        ├── LOLv1_val.txt
+ │        └── unpaired_train.txt
 ```
