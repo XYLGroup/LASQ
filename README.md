@@ -16,8 +16,8 @@ The overall architecture is illustrated below 👇
 
 ```bash
 # Environment setup
-conda create -n project_name python=3.10
-conda activate project_name
+conda create -n LSAQ python=3.11
+conda activate LASQ
 
 # Install dependencies
 pip install -r requirements.txt
