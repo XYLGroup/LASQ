@@ -2,13 +2,13 @@
 
 ---
 
-## 🏗️ 1. Architecture Overview
+## 🏗️ 1. Introduction
 
-This repository implements the full pipeline of our proposed method.  
+LASQ reformulates low-light image enhancement as a statistical sampling process over hierarchical luminance distributions, leveraging a diffusion-based forward process to autonomously model luminance transitions and achieve unsupervised, generalizable light restoration across diverse illumination conditions.
 The overall architecture is illustrated below 👇  
 
 <p align="center">
-  <img src="assets/pipeline.png" alt="pipeline" width="80%">
+  <img src="Figures/pipeline.png" alt="pipeline" width="80%">
 </p>
 
 ---
