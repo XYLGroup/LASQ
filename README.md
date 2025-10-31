@@ -45,7 +45,7 @@ data/
  │        └── unpaired_train.txt
 ```
 ## 🧩 4. Pre-trained Models
-You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing) and place them according to the following directory structure 👇
+You can download our pre-trained model from [链接] and place them according to the following directory structure 👇
 ```
 ckpt/
  ├── stage1/
