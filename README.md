@@ -45,4 +45,11 @@ data/
  │        └── unpaired_train.txt
 ```
 ## 🧩 4. Pre-trained Models
-You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing)
+You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing) and place them according to the following directory structure 👇
+```
+ckpt/
+ ├── stage1/
+ │    └── stage1_weight.pth.tar
+ └── stage2/
+      └── stage2_weight.pth.tar
+```
