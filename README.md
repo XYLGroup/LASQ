@@ -43,4 +43,10 @@ data/
 │ └── LOL-v1/
 │ ├── LOLv1_val.txt
 │ └── unpaired_train.txt
+
+data/
+├── dataset_A/
+│ └── LOL-v1/
+│ ├── a.txt
+│ └── b.txt
 ```
