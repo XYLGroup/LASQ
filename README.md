@@ -45,3 +45,4 @@ data/
  │        └── unpaired_train.txt
 ```
 ## 🧩 4. Pre-trained Models
+You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing)
