@@ -36,11 +36,11 @@ Test datesets without GT: [🌐Google Drive](https://drive.google.com/file/d/1W8
 Challenging Scenes: [🌐Google Drive](https://drive.google.com/file/d/1lg5q2sYTPJ72uVLBGlJGw3M8wK_OY-Ox/view?usp=sharing)
 
 ### 3.2 🗂️ Datasets Organization
+We provide a script `TXT_Generation.py` to automatically generate dataset path files that are compatible with our code. Please place the generated files according to the directory structure shown below 👇
 ```
 data/
- ├── dataset_A/
- │    ├── train/
- │    ├── val/
- │    └── test/
- └── dataset_B/
+├── Image_restoration/
+│ └── LOL-v1/
+│ ├── LOLv1_val.txt
+│ └── unpaired_train.txt
 ```
