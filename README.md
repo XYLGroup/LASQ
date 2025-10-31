@@ -27,9 +27,8 @@ pip install -r requirements.txt
 
 **Core Steps 🧵**
 
-### 3.1 📂 Data Preparation  
-Preprocess and organize your dataset.  
-Make sure the folder structure matches the config file.  
+### 3.1 💾 Data Preparation  
+LOL dataset: Chen Wei, Wenjing Wang, Wenhan Yang, and Jiaying Liu. "Deep Retinex Decomposition for Low-Light Enhancement". BMVC, 2018. [🌐Google Drive](https://drive.google.com/file/d/18bs_mAREhLipaM2qvhxs7u7ff2VSHet2/view)
 
 ### 3.2 🧱 Model Initialization  
 Load backbone and fusion modules.  
