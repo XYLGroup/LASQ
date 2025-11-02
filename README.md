@@ -76,7 +76,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
 
 ##  🙏 9. Acknowledgement
 
-The codes are based on[LightenDiffusion](https://github.com/JianghaiSCU/LightenDiffusion). Please also cite their paper. We thank all the authors for their contributions.
+The codes are based on [LightenDiffusion](https://github.com/JianghaiSCU/LightenDiffusion). Please also cite their paper. We thank all the authors for their contributions.
 
 
 
