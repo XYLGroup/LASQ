@@ -53,7 +53,14 @@ ckpt/
  └── stage2/
       └── stage2_weight.pth.tar
 ```
-##  🧪 6. Testing
+##  🧪 5. Testing
 ```bash
-python evaluate.py
+python3 evaluate.py
+
+```
+
+##  🔬 7. Training
+```bash
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
+
 ```
