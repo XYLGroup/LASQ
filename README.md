@@ -53,3 +53,7 @@ ckpt/
  └── stage2/
       └── stage2_weight.pth.tar
 ```
+##  🧪 6. Testing
+```bash
+python evaluate.py
+```
