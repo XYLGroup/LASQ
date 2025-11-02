@@ -72,7 +72,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
 </p>
 
 <p align="center">
-  <img src="Figures/result_1.png" alt="pipeline" width="100%">
+  <img src="Figures/result_1.png" alt="pipeline" width="80%">
 </p>
 
 ##  📚 8. Citation
