@@ -68,6 +68,10 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
 ##  🖼️ 7. Visual Comparison
 
 <p align="center">
+  <img src="Figures/result_2.png" alt="Visual Result 1" width="80%">
+</p>
+
+<p align="center">
   <img src="Figures/result_1.png" alt="Visual Result 2" width="80%">
 </p>
 
