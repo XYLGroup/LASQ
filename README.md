@@ -45,7 +45,7 @@ data/
  │        └── unpaired_train.txt
 ```
 ## 🧩 4. Pre-trained Models
-You can download our pre-trained model from [链接] and place them according to the following directory structure 👇
+You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1ng1hKxBaMBBG6GfRRnlcSXjIeLA6L9VD/view?usp=drive_link) and place them according to the following directory structure 👇
 ```
 ckpt/
  ├── stage1/
@@ -59,8 +59,42 @@ python3 evaluate.py
 
 ```
 
-##  🔬 7. Training
+##  🔬 6. Training
 ```bash
 CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
 
 ```
+
+##  🖼️ 7. Visual Comparison
+
+<p align="center">
+  <img src="Figures/results.png" alt="pipeline" width="80%">
+</p>
+
+##  📚 8. Citation
+
+
+##  🙏 9. Acknowledgement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
