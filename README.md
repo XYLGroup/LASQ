@@ -78,7 +78,19 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 train.py
 
 
 ##  📚 8. Citation
+If you use this code or ideas from the paper for your research, please cite our paper:
 
+```bash
+@misc{kong2025luminanceawarestatisticalquantizationunsupervised,
+      title={Luminance-Aware Statistical Quantization: Unsupervised Hierarchical Learning for Illumination Enhancement}, 
+      author={Derong Kong and Zhixiong Yang and Shengxi Li and Shuaifeng Zhi and Li Liu and Zhen Liu and Jingyuan Xia},
+      year={2025},
+      eprint={2511.01510},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.01510}, 
+}
+```
 
 ##  🙏 9. Acknowledgement
 
