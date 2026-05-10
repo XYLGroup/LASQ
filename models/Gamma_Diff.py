@@ -170,7 +170,7 @@ class Net(nn.Module):
 
         for _ in range(num_steps):
             proposal = gamma_current + proposal_std * torch.randn_like(gamma_current)
-            proposal = torch.clamp(proposal, 0.3, 3.5)  # 限制物理合理范围
+            proposal = torch.clamp(proposal, 0.3, 3.5)
 
             energy_new = self.gamma_energy(proposal, img_float)
             delta = energy_new - energy_current
