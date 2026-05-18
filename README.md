@@ -46,6 +46,7 @@ data/
 ```
 ## 🧩 4. Pre-trained Models
 You can download our pre-trained model from [🌐Google Drive](https://drive.google.com/file/d/1ng1hKxBaMBBG6GfRRnlcSXjIeLA6L9VD/view?usp=sharing) and place them according to the following directory structure 👇
+> **🌟 Update:** In response to user requests, we have also provided supplementary pre-trained weights for **LOLv2**. You can download them from [🌐Google Drive](https://drive.google.com/file/d/1xO44cCkSuJMyefRl34PoPJZl_HOuLaaR/view?usp=drive_link).
 ```
 ckpt/
  ├── stage1/
